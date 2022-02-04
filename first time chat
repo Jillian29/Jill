@@ -1,0 +1,14 @@
+// this is the first peice of code i am writing in term 3
+
+
+let text;
+
+text = "A really big Jump";
+player.say(text);
+text = "A Really Small Jump"
+
+player.say(text);
+
+text += "A really Long Jump";
+
+player.say(text);
